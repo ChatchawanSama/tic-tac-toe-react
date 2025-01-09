@@ -18,7 +18,8 @@ yarn -v
 ```
 5. Install package.json
 ```sh
-yarn install 
+yarn install
+```
 6. Run to Start Server 
 ```sh
 yarn start
